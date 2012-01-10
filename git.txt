@@ -1,2 +1,3 @@
 added some text
 testing this
+line 3
