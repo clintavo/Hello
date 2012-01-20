@@ -1,1 +1,2 @@
+line 1 added from svn
 line1 added from git
